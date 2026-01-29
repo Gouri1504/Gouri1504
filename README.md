@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gouri Agarwal</h1>
-<h3 align="center">I am passionate MERN stack developer with a keen interest in UI/UX designing.</h3>
+<h3 align="center">I am passionate MERN stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouri1504&label=Profile%20views&color=0e75b6&style=flat" alt="gouri1504" /> </p>
 
