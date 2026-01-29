@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouri1504" alt="gouri1504" /></a> </p>
 
-- 🔭 I’m currently working on [Grannies Tales](https://github.com/kalviumcommunity/S59_Grannies_Tales)
-
-- 🌱 I’m currently learning **Java and UI/UX**
-
 - 💬 Ask me about **MERN, C++ and Python**
 
 - 📫 How to reach me **gouriagarwal15@gmail.com**
