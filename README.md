@@ -5,8 +5,9 @@
 Passionate about building scalable full-stack applications, integrating AI solutions, and solving real-world problems using modern technologies.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouri1504&label=Profile%20views&color=0e75b6&style=flat" alt="gouri1504" /> </p>
-
+<<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gouri1504&label=Profile%20views&color=0e75b6&style=flat" alt="gouri1504" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouri1504" alt="gouri1504" /></a> </p>
 
 ---
@@ -60,7 +61,16 @@ Passionate about building scalable full-stack applications, integrating AI solut
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouri1504&show_icons=true&locale=en&layout=compact" alt="gouri1504" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouri1504&show_icons=true&locale=en" alt="gouri1504" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouri1504&show_icons=true&locale=en&layout=compact" />
+</p>
 
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouri1504&show_icons=true&locale=en" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gouri1504" />
+</p>
