@@ -1,76 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gouri Agarwal</h1>
-<h3 align="center">MERN Stack Developer | AI & LLM Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable full-stack applications, integrating AI solutions, and solving real-world problems using modern technologies.
+Software Developer | AI & LLM Enthusiast
 </p>
 
-<<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gouri1504&label=Profile%20views&color=0e75b6&style=flat" alt="gouri1504" />
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouri1504" alt="gouri1504" /></a> </p>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 **B.Tech CSE @ Chitkara University** (CGPA: **9.61**)  
-- 💼 **Former SDE Intern @ Aarogya ID (Remote)**  
-- 🤖 Interested in **AI + Full Stack Development + Cloud Systems**  
-- 💬 Ask me about **MERN Stack, LLM Integrations, C++, Python**  
-- 🌱 Currently exploring **System Design & Scalable AI Applications**  
-- 📫 Reach me at **gourii.a004@gmail.com**
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/gouri-agarwal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/gouriagasuhy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
+<p align="center">
+B.Tech CSE @ Chitkara University · Former SDE Intern @ Aarogya ID
 </p>
 
----
-
-### 🛠 Languages and Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-
+<p align="center">
+I enjoy building full-stack applications and AI-powered solutions using technologies like React, Next.js, Node.js, Python, C++, LLMs, RAG, and cloud services. I'm currently exploring AI agents and scalable software systems.
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouri1504&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouri1504&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gouri1504" />
+<p align="center">
+<a href="YOUR_PORTFOLIO_LINK">Portfolio</a> &nbsp; • &nbsp;
+<a href="https://linkedin.com/in/gouri-agarwal">LinkedIn</a> &nbsp; • &nbsp;
+<a href="mailto:gourii.a004@gmail.com">Email</a>
 </p>
