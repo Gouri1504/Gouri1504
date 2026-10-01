@@ -14,6 +14,6 @@ I enjoy building full-stack applications and AI-powered solutions using technolo
 
 <p align="center">
 <a href="https://portfolio-gouri-agarwals-projects.vercel.app/">Portfolio</a> &nbsp; • &nbsp;
-<a href="https://linkedin.com/in/gouri-agarwal">LinkedIn</a> &nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/gouri-agarwal-47815a287/">LinkedIn</a> &nbsp; • &nbsp;
 <a href="mailto:gourii.a004@gmail.com">Email</a>
 </p>
